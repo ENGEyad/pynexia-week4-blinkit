@@ -21,6 +21,6 @@ No payment is collected. Product prices and demo orders are training data. Do no
 
 - Repository: https://github.com/ENGEyad/pynexia-week4-blinkit
 - Hosted overview: https://engeyad.github.io/pynexia-week4-blinkit/
-- Latest release: https://github.com/ENGEyad/pynexia-week4-blinkit/releases/latest
+- Project report: https://engeyad.github.io/pynexia-week4-blinkit/downloads/Blinkit-Clone-App-Report.pdf
 
-Build passed; Android Lint reported no issues. Unit tests passed: 8. Emulator UI flows were not run due to low emulator storage.
+Build passed; Android Lint reported no issues. Unit tests passed: 8. Emulator UI flows were not run due to low emulator storage. APK and source ZIP are provided in the local submission kit.
